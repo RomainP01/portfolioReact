@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4aab3f39.chunk.css",
+    "main.js": "/static/js/main.a20a9ebc.chunk.js",
+    "main.js.map": "/static/js/main.a20a9ebc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3f8385d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3f8385d.js.map",
+    "static/js/2.9ba62592.chunk.js": "/static/js/2.9ba62592.chunk.js",
+    "static/js/2.9ba62592.chunk.js.map": "/static/js/2.9ba62592.chunk.js.map",
+    "static/js/3.c6d3c414.chunk.js": "/static/js/3.c6d3c414.chunk.js",
+    "static/js/3.c6d3c414.chunk.js.map": "/static/js/3.c6d3c414.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4aab3f39.chunk.css.map": "/static/css/main.4aab3f39.chunk.css.map",
+    "static/js/2.9ba62592.chunk.js.LICENSE.txt": "/static/js/2.9ba62592.chunk.js.LICENSE.txt",
+    "static/media/1.be83312a.JPG": "/static/media/1.be83312a.JPG",
+    "static/media/RomainPani_CVAlternance-1.1265834d.png": "/static/media/RomainPani_CVAlternance-1.1265834d.png",
+    "static/media/android-icon.aece7157.svg": "/static/media/android-icon.aece7157.svg",
+    "static/media/javascript-icon.081a6e35.svg": "/static/media/javascript-icon.081a6e35.svg",
+    "static/media/me.11cb4343.JPG": "/static/media/me.11cb4343.JPG",
+    "static/media/reactjs-icon.6c1d44b8.svg": "/static/media/reactjs-icon.6c1d44b8.svg",
+    "static/media/symfony-icon.79b64acf.svg": "/static/media/symfony-icon.79b64acf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f8385d.js",
+    "static/js/2.9ba62592.chunk.js",
+    "static/css/main.4aab3f39.chunk.css",
+    "static/js/main.a20a9ebc.chunk.js"
+  ]
+}

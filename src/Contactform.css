@@ -1,0 +1,124 @@
+#title-Tag-Line {
+  font-size: 20px;
+}
+/* .card-item__bg{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    position: relative;
+    margin: 30px auto;
+    transform: translate(0px, 50px);
+    z-index: 5;
+  } */
+
+/* form animation starts */
+.form {
+  background: #fff;
+  box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+  border-radius: 5px;
+  max-width: 650px;
+  height: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  left: 0;
+  right: 0;
+  position: absolute;
+  border-top: 5px solid #9198e5;
+  /*   z-index: 1; */
+  animation: bounce 2s infinite;
+}
+::-webkit-input-placeholder {
+  font-size: 1.3em;
+}
+
+.title {
+  display: block;
+  font-family: sans-serif;
+  margin: 10px auto 5px;
+  width: 300px;
+}
+
+.pageTitle {
+  font-size: 2em;
+  font-weight: bold;
+}
+.secondaryTitle {
+  color: white;
+}
+
+.name {
+  background-color: #c3c7f8;
+  color: white;
+  font-size: 2rem;
+  height: 3rem;
+
+  width: 80%;
+}
+.name:hover {
+  border-bottom: 5px solid #9198e5;
+}
+
+.email {
+  background-color: #c3c7f8;
+
+  font-size: 2rem;
+  height: 3rem;
+  width: 80%;
+}
+
+.email:hover {
+  border-bottom: 5px solid #9198e5;
+}
+
+.message {
+  background-color: #c3c7f8;
+  overflow: hidden;
+  height: 15rem;
+  width: 80%;
+  font-size: 2rem;
+  resize: none;
+}
+
+.message:hover {
+  border-bottom: 5px solid #9198e5;
+}
+
+.formEntry {
+  display: block;
+  margin: 30px auto;
+  min-width: 300px;
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+  transition: all 0.5s ease 0s;
+  color: white;
+}
+
+.submit {
+  width: 200px;
+  color: white;
+  background-color: #9198e5;
+  font-size: 2rem;
+}
+
+.submit:hover {
+  box-shadow: 15px 15px 15px 5px rgba(78, 72, 77, 0.219);
+  transform: translateY(-3px);
+  width: 300px;
+  border-top: 5px solid #646aad;
+  border-radius: 0%;
+}
+
+@keyframes bounce {
+  0% {
+    tranform: translate(0, 4px);
+  }
+  50% {
+    transform: translate(0, 8px);
+  }
+}
